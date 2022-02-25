@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+  }
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.intro-name {
+    font-size: 90px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.intro-title {
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* For the aesthetics */
+  .nav-button {
+    background-color: lightpink;
+  }
